@@ -11,7 +11,7 @@ llm_config = {
             "base_url": 'http://localhost:11434/v1/',
         },
             ],
-    "temperature": 0.5,
+    "temperature": 0.7,
     "timeout": 300,
 }
 
